@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Set/Combination" />
+            <option value="$PROJECT_DIR$/Topics/Set/Conversion" />
+            <option value="$PROJECT_DIR$/Topics/Set/Element problem" />
+            <option value="$PROJECT_DIR$/Topics/Set/Elementary" />
+            <option value="$PROJECT_DIR$/Topics/Set/First things first" />
+            <option value="$PROJECT_DIR$/Topics/Set/Non-empty set" />
+            <option value="$PROJECT_DIR$/Topics/Set/Subtraction" />
+            <option value="$PROJECT_DIR$/Topics/Set/The truth is" />
+            <option value="$PROJECT_DIR$/Topics/Set/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Set/Two sides of the same" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
